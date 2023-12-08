@@ -1,0 +1,56 @@
+structure,username_mat,qr_code,start,end
+Bimbo,Bimbo-MA1,18,1001,1196
+Bimbo,Bimbo-MA2,19,1197,1392
+Bimbo,Bimbo-MA3,20,1393,1588
+Bimbo,Bimbo-MA4,21,1589,1784
+Bimbo,Bimbo-MA5,22,1785,1980
+Bimbo,Bimbo-MA6,23,1981,2176
+EMF,EMF-MA1,24,2177,2301
+EMF,EMF-MA2,25,2302,2427
+Kokoro Boeing,Kokoro Boeing-MA1,26,2428,2486
+Kokoro Boeing,Kokoro Boeing-MA2,27,2487,2545
+Kokoro Boeing,Kokoro Boeing-MA3,28,2546,2604
+Kokoro Boeing,Kokoro Boeing-MA4,29,2605,2663
+Kokoro Boeing,Kokoro Boeing-MA5,30,2664,2721
+Kokoro Boeing,Kokoro Boeing-MA6,31,2722,2779
+Kokoro Boeing,Kokoro Boeing-MA7,32,2780,2837
+Dameca,Dameca-MA1,33,2838,3004
+Dameca,Dameca-MA2,34,3005,3170
+Dameca,Dameca-MA3,35,3171,3336
+Sakai B,Sakai B-MA1,36,3337,3387
+Sakai B,Sakai B-MA2,37,3388,3438
+Sakai B,Sakai B-MA3,38,3439,3489
+Sakai B,Sakai B-MA4,39,3490,3540
+Sakai B,Sakai B-MA5,40,3541,3591
+Sakai B,Sakai B-MA6,41,3592,3642
+Sakai B,Sakai B-MA7,42,3643,3693
+Sakai B,Sakai B-MA8,43,3694,3743
+Sakai B,Sakai B-MA9,44,3744,3793
+Sakai B,Sakai B-MA10,45,3794,3843
+Maka,Maka-MA1,46,3844,3874
+Maka,Maka-MA2,47,3875,3905
+Maka,Maka-MA3,48,3906,3936
+Maka,Maka-MA4,49,3937,3967
+Maka,Maka-MA5,50,3968,3997
+Maka,Maka-MA6,51,3998,4027
+Albert BurKhart,Albert BurKhart-MA1,52,4028,4246
+Albert BurKhart,Albert BurKhart-MA2,53,4247,4465
+Albert BurKhart,Albert BurKhart-MA3,54,4466,4683
+Albert BurKhart,Albert BurKhart-MA4,55,4684,4901
+Bimbo,Bimbo-AS1,1,1,1
+Bimbo,Bimbo-AS2,2,2,2
+Bimbo,Bimbo-AS3,3,3,3
+Bimbo,Bimbo-AS4,4,4,4
+EMF,EMF-AS1,5,5,5
+EMF,EMF-AS2,6,6,6
+Kokoro Boeing,Kokoro Boeing-AS1,7,7,7
+Kokoro Boeing,Kokoro Boeing-AS2,8,8,8
+Kokoro Boeing,Kokoro Boeing-AS3,9,9,9
+Dameca,Dameca-AS1,10,10,10
+Dameca,Dameca-AS2,11,11,11
+Sakai B,Sakai B-AS1,12,12,12
+Sakai B,Sakai B-AS2,13,13,13
+Maka,Maka-AS1,14,14,14
+Maka,Maka-AS2,15,15,15
+Albert BurKhart,Albert BurKhart-AS1,16,16,16
+Albert BurKhart,Albert BurKhart-AS2,17,17,17
